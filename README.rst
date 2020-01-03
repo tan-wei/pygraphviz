@@ -1,5 +1,6 @@
-PyGraphviz
+PyGraphviz (forked for Windows user)
 ----------
+Note: The original repo fails installing on Windows. So I create a fork for Windows User. If your Python is x64 version, please download the x64 version Graphviz, for example from  https://github.com/mahkoCosmo/GraphViz_x64. The installation locates in C:/Program Files/Graphviz2.38. The install commands: python setup.py install.
 
 PyGraphviz is a Python interface to the Graphviz graph layout and
 visualization package.
